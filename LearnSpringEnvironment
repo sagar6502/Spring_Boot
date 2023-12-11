@@ -1,0 +1,8 @@
+~~~Dev~~~~
+logging.level.org.springframework=trace
+
+~~~Prod~~~~
+logging.level.org.springframework=info
+
+
+C:\Users\Sagar Sunar\Desktop\learn-spring-boot\learn-spring-boot\target\learn-spring-boot-0.0.1-SNAPSHOT.jar to C:\Users\Sagar Sunar\.m2\repository\com\learn\springboot\learn-spring-boot\0.0.1-SNAPSHOT\learn-spring-boot-0.0.1-SNAPSHOT.jar
